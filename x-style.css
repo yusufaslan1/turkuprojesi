@@ -436,9 +436,7 @@ nav {
         max-height: inherit !important;
     }
 
-.owl-carousel .owl-item img {
-    -webkit-backface-visibility: hidden;
-}
+
 
 
 /* Grid */
@@ -573,6 +571,7 @@ p {
     color: #111;
     line-height: 28px;
 }
+
 
     p a {
         color: #111;
@@ -822,6 +821,11 @@ img {
         .home-news-slider .owl-dots .active span {
             background: #111;
         }
+
+.page-head p {
+    text-align: justify;
+}
+
 
 .duyuru-box {
 }
